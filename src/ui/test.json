@@ -1,0 +1,9 @@
+{
+    name: "list",
+    layout: [
+        {
+            name: "test",
+            container: "input"
+        }
+    ]
+}
