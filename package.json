@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "ide.gui-form-core": "git+ssh://github.com/gui-form-core/",
+    "ide.gui-auto-table": "git+ssh://github.com/gui-auto-table/"
   },
   "scripts": {
     "start": "react-scripts start",

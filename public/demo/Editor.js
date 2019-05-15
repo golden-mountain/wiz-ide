@@ -1,6 +1,6 @@
 import React from 'react';
 import WizIDE from './WizIDE';
-
+// import { triggle } from  
 
 export default function Editor() {
     const loadJSON = () => ({
@@ -50,7 +50,7 @@ export default function Editor() {
                 ]
             }, 
             {
-                component: 'autoform',
+                component: 'gui-form-core.AutoForm',
                 props: {
                     any: 'value'
                 }
